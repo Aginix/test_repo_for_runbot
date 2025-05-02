@@ -110,7 +110,4 @@ This module is part of the `OCA/l10n-thailand <https://github.com/OCA/l10n-thail
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.
 
-
-Test
-
-asdf
+t
